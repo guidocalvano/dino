@@ -1,4 +1,4 @@
-git clone see github what the url is
+git clone https://github.com/guidocalvano/dino.git
 
 python3 -m venv env
 
